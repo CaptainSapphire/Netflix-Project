@@ -11,6 +11,8 @@ For advertising, for the viewers (so they know what they have seen), and reccome
 2. Unzip the folder and find the "ViewingActivity.csv" (you'll use that as your dataframe)
 3. Install RStudio and Python (respective tutorials linked)
 4. Import necessary libraries
+5. Make graphs and analyze your data
+
 
 ## Support me :)
 Follow me on my socials here: <br>
