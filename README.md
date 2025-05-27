@@ -13,7 +13,7 @@ For advertising, for the viewers (so they know what they have seen), and reccome
 4. Import necessary libraries
 
 ## Support me :)
-Follow me on my socials here: <br><br>
+Follow me on my socials here: <br>
 - [Linkedin](https://www.linkedin.com/in/priya-harry/)
 - [YouTube](https://www.youtube.com/@priya-harry)
 - [Blog]()
