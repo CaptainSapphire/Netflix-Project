@@ -11,3 +11,9 @@ For advertising, for the viewers (so they know what they have seen), and reccome
 2. Unzip the folder and find the "ViewingActivity.csv" (you'll use that as your dataframe)
 3. Install RStudio and Python (respective tutorials linked)
 4. Import necessary libraries
+
+## Support me :)
+Follow me on my socials here: <br><br>
+- [Linkedin](https://www.linkedin.com/in/priya-harry/)
+- [YouTube](https://www.youtube.com/@priya-harry)
+- [Blog]()
