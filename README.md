@@ -8,7 +8,6 @@ The purpose of this project is to learn RStudio/R. If you look at the same bits 
 Netflix is a multi-billion dollar streaming company. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages (Wikipedia). <br><br>
 For advertising, for the viewers (so they know what they have seen), and reccomendations, netflix has to keep track of all of the user's data. Which makes it a perfect data set to analyze (there aren't any null values)
 
-
 ## How to do this yourself
 1. First, request your data from Netflix. They should send it within a few business days in the form of a zip file.
 2. Unzip the folder and find the "ViewingActivity.csv" (you'll use that as your dataframe)
@@ -19,9 +18,8 @@ For advertising, for the viewers (so they know what they have seen), and reccome
 ## Notes for the future
 Label your x-axis with the unit of measurement in time! It really helps with your analysis. 
 
-## 
-
 ## The Presentation
+I made my presentation in PowerPoint, but you ca make it in anything! It's up to you how you present your data, but I would reccomend PowerPoint or Google Slides. 
 
 ## Support me :)
 Follow me on my socials here: <br>
