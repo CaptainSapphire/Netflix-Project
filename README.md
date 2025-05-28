@@ -25,6 +25,6 @@ I made my presentation in PowerPoint, but you ca make it in anything! It's up to
 Follow me on my socials here: <br>
 - [Linkedin](https://www.linkedin.com/in/priya-harry/)
 - [YouTube](https://www.youtube.com/@priya-harry)
-- [Blog]()
-<br><br><br>
+- [Blog](https://captainsapphire.github.io/PH-s-Blog/)
+<br><br>
 ** *I didn't upload the csv file I used because that's all of my Netflix data, which doesn't need to be out there online. :)**
