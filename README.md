@@ -1,10 +1,13 @@
-# Netflix-Project
-Welcome to my data science project, where we analyze our Netflix data. <br><br>
+# Data Science Project: Netflix
 !["Netflix Project"](https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940)
+State the purpose, methods, results, and conclusions
+
+The purpose of this project is to learn RStudio/R. If you look at the same bits of data I did, you can deduce the most watched profile, device, and series!
 
 ## Context
 Netflix is a multi-billion dollar streaming company. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages (Wikipedia). <br><br>
 For advertising, for the viewers (so they know what they have seen), and reccomendations, netflix has to keep track of all of the user's data. Which makes it a perfect data set to analyze (there aren't any null values)
+
 
 ## How to do this yourself
 1. First, request your data from Netflix. They should send it within a few business days in the form of a zip file.
@@ -13,6 +16,12 @@ For advertising, for the viewers (so they know what they have seen), and reccome
 4. Import necessary libraries
 5. Make graphs and analyze your data
 
+## Notes for the future
+Label your x-axis with the unit of measurement in time! It really helps with your analysis. 
+
+## 
+
+## The Presentation
 
 ## Support me :)
 Follow me on my socials here: <br>
