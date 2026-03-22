@@ -1,6 +1,5 @@
 # Data Science Project: Netflix
 !["Netflix Project"](https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940)
-State the purpose, methods, results, and conclusions
 
 The purpose of this project is to learn RStudio/R. If you look at the same bits of data I did, you can deduce the most watched profile, device, and series!
 
